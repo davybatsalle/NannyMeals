@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Les repas de Nanny</string>
+    <string name="Removed">Effacé</string>
+    <string name="action_delete">Effacer le repas sélectionné</string>
+    <string name="action_delete_all">Effacer tous les repas</string>
+    <string name="action_list">Liste des repas</string>
+    <string name="deleteAll">Effacer tous les repas</string>
+    <string name="deleteConfirm">Etes-vous sûr de vouloir effacer?</string>
+    <string name="deleteSingle">Effacer un repas</string>
+    <string name="dessert">Dessert?</string>
+    <string name="fromage">Fromage?</string>
+    <string name="gouter">Goûter?</string>
+    <string name="plat_principal">Plat principal?</string>
+    <string name="saved">Sauvegardé</string>
+    <string name="search">Recherche</string>
+    <string name="title_item_detail">Detail</string>
+    <string name="title_item_list">Repas</string>
+    <string name="times"> fois</string>
+    <string name="mainCourse_dropDown">Plat principal</string>
+    <string name="display_statistics">Statistiques de repas</string>
+    <string name="cheese_dropDown">Fromage</string>
+    <string name="pudding_dropDown">Dessert</string>
+    <string name="snck_dropDown">Goûter</string>
+    <string name="statistics">Statistiques</string>
+    <string name="periode">calculées sur une période de</string>
+    <string name="categorie">Catégorie</string>
+    <string name="threeMonth">3 mois</string>
+    <string name="sixMonth">6 mois</string>
+    <string name="oneMonth">1 mois</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="navigation_drawer_close">Fermer panneau de navigation</string>
+    <string name="navigation_drawer_open">Ouvrir panneau de navigation</string>
+    <string name="pref_default_display_name">John Smith</string>
+    <string name="pref_description_social_recommendations">Recommandations de personnes à contacter\n        basée sur l\'historique des messages</string>
+    <string name="pref_header_data_sync">Sychronisation des données</string>
+    <string name="pref_header_general">Général</string>
+    <string name="pref_header_notifications">Notifications</string>
+    <string name="pref_ringtone_silent">Silcencieux</string>
+    <string name="pref_title_add_friends_to_messages">Ajouter des amis aux messages</string>
+    <string name="pref_title_display_name">Afficher le nom</string>
+    <string name="pref_title_new_message_notifications">Nouvelles notifications de message</string>
+    <string name="pref_title_ringtone">Sonnerie</string>
+    <string name="pref_title_social_recommendations">Activer les recommandations réseaux sociaux</string>
+    <string name="pref_title_sync_frequency">Fréquence de synchronisation</string>
+    <string name="pref_title_system_sync_settings">Paramètres de synchronisation système</string>
+    <string name="pref_title_vibrate">Vibrer</string>
+    <string name="title_activity_settings">Paramètres</string>
+
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string name="share">Partager</string>
+    <string name="shareBody">chez Nanny, on a mangé:</string>
+    <string name="shareBodyStart">Aujourd\'hui (</string>
+    <string name="shareBodyStartAny">"Le "</string>
+</resources>
